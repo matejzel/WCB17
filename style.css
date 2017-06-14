@@ -64,7 +64,7 @@ header .wrap {
 
 .navigation-top a:hover, .navigation-top .current-menu-item > a, .navigation-top .current_page_item > a {
 	color: #FFF;
-	background-color: #51b647;
+	background-color: #841200;
 }
 
 .workshops {
@@ -114,7 +114,7 @@ header .wrap {
 }
 
 .site-title a {
-	color: #ffa500 !important;
+	color: #861100 !important;
 }
 
 .site-branding-text h1 {
@@ -164,7 +164,7 @@ body.home .social-navigation a {
 	width: 150px;
 	height: 43px;
 	text-transform: uppercase;
-	background-color: #51b647;
+	background-color: #DB0E15;
 	color: #FFF;
 	font-family: "Roboto", sans-serif;
 	font-size: 15px;
@@ -173,7 +173,7 @@ body.home .social-navigation a {
 }
 
 body.home .social-navigation a:hover {
-	background-color: #ffa500;
+	background-color: #DB0E15;
 }
 
 body.home .social-navigation a span {
@@ -263,7 +263,7 @@ body.home #main article:nth-child(1) {
 
 .boxthumb {
 	text-align: center;
-	background-color: #ffa500;
+	background-color: #841200;
 	position: relative;
 }
 
@@ -293,11 +293,11 @@ body.home #main article:nth-child(1) {
 }
 
 .homebox:hover .homeboxreadmore a {
-	color: #ffa500;
+	color: #DB0E15;
 }
 
 .homebox:hover .homeboxtitle a {
-	color: #ffa500;
+	color: #DB0E15;
 }
 
 .homeboxtitle {
@@ -332,7 +332,7 @@ body.home #main article:nth-child(1) {
 }
 
 .homeboxreadmore a:hover {
-	color: #ffa500;
+	color: #DB0E15;
 	text-decoration: none !important;
 	box-shadow: none !important;
 }
@@ -348,7 +348,7 @@ body.home #main article:nth-child(1) {
 }
 
 .green, .green a {
-	color: #51b647;
+	color: #DB0E15;
 	box-shadow: none !important;
 }
 
@@ -403,7 +403,7 @@ body.home #main article:nth-child(1) {
 }
 
 .aboutbutton:hover {
-	border-color: #ffa500;
+	border-color: #DB0E15;
 	box-shadow: none;
 }
 
@@ -412,7 +412,7 @@ body.home #main article:nth-child(1) {
 }
 
 .site-info {
-	background-color: #ffa500;
+	background-color: #861100;
 	text-align: center;
 	left: -205%;
 	overflow: hidden;
@@ -514,7 +514,7 @@ body.home #main article:nth-child(1) {
 
 .footer-widget-2 .widget ul li a:hover {
 	box-shadow: none !important;
-	color: #ffa500;
+	color: #DB0E15;
 }
 
 .footer-widget-2  .widget_recent_entries .post-date {
@@ -533,7 +533,7 @@ body.home #main article:nth-child(1) {
 }
 
 .sponsorheading {
-	background-color: #51b647;
+	background-color: #861100;
 	border-radius: 45px;
 	color: #fff;
 	left: 50%;
@@ -650,7 +650,7 @@ body.blog aside, body.single-post aside {
 
 .single-featured-image-header {
 	padding: 0;
-	background-color: #ffa500;
+	background-color: #861100;
 }
 
 .entry-content li {
